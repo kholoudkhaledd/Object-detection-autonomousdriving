@@ -1,0 +1,15 @@
+item {
+    name: "Car",
+    id: 1,
+    display_name: "Car"
+}
+item {
+    name: "Pedestrian",
+    id: 2,
+    display_name: "Pedestrian"
+}
+item {
+    name: "Truck",
+    id: 3,
+    display_name: "Truck"
+}
