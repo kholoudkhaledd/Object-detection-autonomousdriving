@@ -35,13 +35,12 @@ This project focuses on training three famous object detection models on the Mas
   - Data Preprocessing
   - Model Training
   - Evaluation
-- **Hardware**: [Insert hardware specifications if available]
-- **Training Strategy**: [Insert details of the training strategy, such as data augmentation techniques, learning rate schedule, etc.]
+
+- **Training Strategy**: Dataset was divided into 70% training , 20% validation and 10% testing 
 
 ## Evaluation
 
 - **Metrics**: Mean Average Precision (MAP) at IoU threshold 0.5
-- **Benchmark Results**: [Insert comparison with state-of-the-art results if available]
 
 ## Usage
 
